@@ -1,2 +1,3 @@
 # Trading-assistant
-This is a teest purpose only. 
+This is a test purpose only. 
+

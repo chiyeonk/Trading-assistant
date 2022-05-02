@@ -1,3 +1,3 @@
 # Trading-assistant
-This is a test purpose only. 
+This is for test purpose only. 
 
